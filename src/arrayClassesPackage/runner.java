@@ -9,6 +9,9 @@ public class runner {
 		myStudentArray.buildArray();
 		myStudentArray.showArray();
 		
+		AnimalArray myAnimalArray = new AnimalArray();
+		myAnimalArray.CreateAnimalInfo();
+		
 		/*
 		 * Graded assignment
 		 * 
