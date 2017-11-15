@@ -11,6 +11,8 @@ public class runner {
 		
 		AnimalArray myAnimalArray = new AnimalArray();
 		myAnimalArray.CreateAnimalInfo();
+		myAnimalArray.ShowAnimalInfo();
+		
 		
 		/*
 		 * Graded assignment
